@@ -375,6 +375,40 @@ local function REGISTER_HEALERS_ONLY_SPELLS_ONCE ()
            -- [16178] = "SHAMAN", -- Purification --ct removed
             [29206] = "SHAMAN", -- Healing way
             [001064] = "SHAMAN", -- Chain Heal
+
+            
+        ------------------------------------------SOD---------------------------------------------
+        ---
+            ---
+            [439733] = "DRUID", -- Tree of Life
+            [408124] = "DRUID", -- Lifebloom
+            [018562] = "DRUID", -- Swiftmend
+            [408247] = "DRUID", -- Nourish
+            [408120] = "DRUID", -- Wild Growth
+            ---
+            [407613] = "PALADIN", -- Beacon of Light
+            [458856] = "PALADIN", -- Divine Light
+            [020930] = "PALADIN", -- Holy Shock
+            [025292] = "PALADIN", -- Holy Light
+            [019943] = "PALADIN", -- Flash of Light
+            ---
+            [415236] = "SHAMAN", -- Healing Rain
+            [416325] = "SHAMAN", -- Healing Wave
+            [010468] = "SHAMAN", -- Lesser Healing Wave
+            [416246] = "SHAMAN", -- Chain Heal
+            ---
+            [401946] = "PRIEST", -- Circle of Healing
+            [025316] = "PRIEST", -- Prayer of Healing
+            [025314] = "PRIEST", -- Greater Heal
+            [010917] = "PRIEST", -- Flash Heal
+            [402174] = "PRIEST", -- Penance
+            [401859] = "PRIEST", -- Prayer of Mending
+            ---
+            [412510] = "MAGE", -- Mass Regeneration
+            [401417] = "MAGE", -- Regeneration
+            [401462] = "MAGE", -- Rewind Time
+            [436516] = "MAGE", -- Chronostatic Preservation
+        ------------------------------------------------------------------------------------------
         }
 
         -- OK, this feature makes no sense in WoW classic...
